@@ -10,10 +10,10 @@ Como um lego, você irá utilizar peças para criar algoritimos, ou seja, para r
 - [x] Comentários
 - [x] Declaração de variaveis (cont, int)
 - [x] Operadores (atribuição, matemáticos, lógicos)
-- [x] tipos de dados (string, number, boolan)
-- estrutura de dados (functions, object, array)
-- controle de fluxo (if/else)
-- estrutura de repetição (for, while)
+- [x] tipos de dados (string, number, boolean)
+- [x] estrutura de dados (functions, object, array)
+- [x] controle de fluxo (if/else)
+- [x] estrutura de repetição (for, while)
 
 # Fases da resolução de um problema
 
@@ -34,8 +34,9 @@ Apresentar dados
 
 # Operadores
 
-[x] Operador de atribuição de valor
-[x] Oparador de concatenação
+- [x] Operador de atribuição de valor =
+- [x] Oparador de concatenação +
+- [x] Operadores de comparação == != <= >= < >
 
 ## Estrutura de dados:
 
@@ -62,6 +63,7 @@ Apresentar dados
 # Condicionais
 
 - [x] switch 
+- [x] if/else
 
 ## Módulos em Node.js:
 
