@@ -17,9 +17,9 @@ Como um lego, você irá utilizar peças para criar algoritimos, ou seja, para r
 
 # Fases da resolução de um problema
 
-Coletar dados
-Processar os dados (manipular, alterar ...)
-Apresentar dados
+- [x] Coletar dados
+- [x] Processar os dados (manipular, alterar ...)
+- [x] Apresentar dados
 
 ## Escopos e variáveis
 
