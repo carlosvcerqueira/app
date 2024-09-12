@@ -34,15 +34,17 @@ Como um lego, você irá utilizar peças para criar algoritimos, ou seja, para r
 
 # Operadores
 
-- [x] Operador de atribuição de valor =
-- [x] Oparador de concatenação +
-- [x] Operadores de comparação == != <= >= < >
+- [x] Operador de atribuição de valor: =
+- [x] Oparador de concatenação: +
+- [x] Operadores de comparação: == != <= >= < >
+- [x] Spread operator: ...
 
 ## Estrutura de dados:
 
 ### Arrays:
 
 - [x] Uma lista que contém  qualquer tipo de dado
+- [x] Métodos de array: push, [find, ForEach, filter] : HOF (Higher Order Functions)
 
 ### Objetos:
 
