@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "value": "codar todos os dias",
+    "checked": true
+  },
+  {
+    "value": "cros",
+    "checked": true
+  }
+]
